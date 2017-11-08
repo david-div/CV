@@ -79,12 +79,12 @@ CIMA Certificate Maths
 
 #### Spabreaks.com (June 2012 to May 2017)
 
-*Accounts Payable Manager/Project accountant
+*Accounts Payable Manager/Project accountant*
 
 
 #### Carillion PM (March 2008 to May 2011)
 
-*Accounts Payable Clerk
+*Accounts Payable Clerk*
 
 Hobbies
 
