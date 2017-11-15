@@ -21,16 +21,16 @@ Being a manager at Spabreaks.com, communication was extremely important. Not onl
 Teamwork was an integral part of Makers. On our final project ([Quark](https://github.com/david-div/Quark-Text-editor)), there were times the team would tangent and go off topic. I would always bring the team back on track to focus on the task at hand.
 
 #### Problem solving
-I am a logical thinker and enjoy problems solving, which is the reason I enjoy coding so much. Working in accounts previously, the tool of choice was excel, which I became very proficient at.
+I am a logical thinker and enjoy problem solving, which is the reason I enjoy coding so much. Working in accounts previously, the tool of choice was excel, which I became very proficient at.
 
 
 ## Projects
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
-| -------------------------- |-----------------------------------------------------------------------------|:-------------------|-------------------|
+| -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|
 | [Quark](https://github.com/david-div/Quark-Text-editor)      |A Text Editor made from scratch for both Windows and MacOS     |JavaScript, NodeJS, Electron         | Mocha, Spectron      |
 | [DrPJs MakersBnB](https://github.com/david-div/DrPJsMakersBnB)      |An Airbnb website clone| Javascript, Mongo DB, NodeJS and Express             | Mocha Chai, Zombie       |
-| [Bank tech test](https://github.com/david-div/tech_test_bank)       |Practice tech test, simulating a bank|        Ruby   |  Rspec
+| [Bank tech test](https://github.com/david-div/tech_test_bank)       |Practice tech test, simulating a bank|        Ruby   |  Rspec |
 
 
 ## Education
@@ -49,16 +49,16 @@ I am a logical thinker and enjoy problems solving, which is the reason I enjoy c
 
 
 **Croydon College Higher Education** (2005 - 2006):      
-1st Year Business Studies (Hons)
+*1st Year Business Studies (Hons)*
 
 **Harris CTC 6th form** (2002 - 2004):  
-A level: Maths, Business Studies, IT
+*A level: Maths, Business Studies, IT*
     
 **Harris CTC** (1997 - 2002):  
-12 GCSE’s (A-C)
+*12 GCSE’s (A-C)*
          
 **Other:**  
-CIMA Certificate Maths
+*CIMA Certificate Maths*
 
 
 ## Experience
