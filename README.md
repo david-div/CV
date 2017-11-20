@@ -3,7 +3,7 @@
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
-Junior developer, looking for a chance to showcase my newfound mad skills. Having recently finished a 12 week intensive bootcamp with Makers Academy I am eager to immerse into the world of programming.
+Junior developer, looking for a chance to showcase my newfound mad skills. Having recently finished a 12 week intensive bootcamp with Makers Academy I am eager to immerse myself into the world of programming.
 
 I started my previous career in accounts payable, progressing to accounts payable manager. From there I took on various project roles ranging from improving processes to implementing a new accounting package.
 
@@ -18,7 +18,7 @@ I enjoy learning new technologies and while at Makers, I had to learn them fast.
 #### Communication and teamwork
 Being a manager at Spabreaks.com, communication was extremely important. Not only did I have to manage my staff on a day to day basis, but I had to deal with hotels/spas and the rest of the business. 
 
-Teamwork was an integral part of Makers. On our final project ([Quark](https://github.com/david-div/Quark-Text-editor)), there were times the team would tangent and go off topic. I would always bring the team back on track to focus on the task at hand.
+Focusing on the task at hand. On our final project at Makers ([Quark](https://github.com/david-div/Quark-Text-editor)), there were times the team would tangent and go off topic. I would always bring the team back on track to focus on the task at hand.
 
 #### Problem solving
 I am a logical thinker and enjoy problem solving, which is the reason I enjoy coding so much. Working in accounts previously, the tool of choice was excel, which I became very proficient at.
