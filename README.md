@@ -8,8 +8,7 @@ Junior developer, looking for a chance to showcase my newfound mad skills. Havin
 ## Skills
 
 #### Fast learner
- - I enjoy learning new technologies and while at Makers, I had to learn them fast. Each week was something new and having no real programming experience, I had to pickup technologies quickly, and a lot of the time learning while doing.
-  - Confident I'm able to learn and implement new technologies when and if needed.
+I enjoy learning new technologies and while at Makers, I had to learn them fast. Each week was something new and having no real programming experience, I had to pickup technologies quickly, and a lot of the time learning while doing. This has now given me the confidence to know that I'm able to learn and implement new technologies when and if needed.
 
 #### Problem solving
  - Logical thinker and enjoy problem solving.
