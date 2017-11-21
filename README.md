@@ -5,24 +5,22 @@
 
 Junior developer, looking for a chance to showcase my newfound mad skills. Having recently finished a 12 week intensive bootcamp with Makers Academy I am eager to immerse myself into the world of programming.
 
-I started my previous career in accounts payable, progressing to accounts payable manager. From there I took on various project roles ranging from improving processes to implementing a new accounting package.
-
-
-
-
 ## Skills
 
 #### Fast learner
 I enjoy learning new technologies and while at Makers, I had to learn them fast. Each week was something new and having no real programming experience, I had to pickup technologies quickly, and a lot of the time learning while doing. This has now given me the confidence to know that I'm able to learn and implement new technologies when and if needed.
 
-#### Communication and teamwork
-Being a manager at Spabreaks.com, communication was extremely important. Not only did I have to manage my staff on a day to day basis, but I had to deal with hotels/spas and the rest of the business. 
-
-Focusing on the task at hand. On our final project at Makers ([Quark](https://github.com/david-div/Quark-Text-editor)), there were times the team would tangent and go off topic. I would always bring the team back on track to focus on the task at hand.
-
 #### Problem solving
-I am a logical thinker and enjoy problem solving, which is the reason I enjoy coding so much. Working in accounts previously, the tool of choice was excel, which I became very proficient at.
-
+ - Logical thinker and enjoy problem solving.
+ - Capable of breaking large scale problems to smaller manageable pieces.
+ - Since completing Makers, I am more likely to diagram out problems to find solutions.
+ 
+#### Communication and teamwork
+ - Managing a team of up to 5 at Spabreaks.com, I had to know that my staff were doing, as well as giving them clear instruction.
+ - In constant communication with hotels, keeping good client/supplier relationships.
+ - Focusing on the task at hand. On our final project at Makers ([Quark](https://github.com/david-div/Quark-Text-editor)), there were times the team would tangent and go off topic. I would always bring the team back on track (in a nice way) to focus on the task at hand.
+ - While programming with others at Makers, I have been told that I'm great to work with; I'm a good listener, interested in others ideas and like to understand things well (their words not mine, but all true). 
+ 
 
 ## Projects
 
@@ -44,7 +42,7 @@ I am a logical thinker and enjoy problem solving, which is the reason I enjoy co
  - Rspec, Jasmine, Mocha, Capybara
  - Experience with MVC framework patterns
  - Version control, git and github
- - Pair Programming
+ - Pair Programming, 
  - Agile, XP values
 
 
@@ -65,6 +63,9 @@ I am a logical thinker and enjoy problem solving, which is the reason I enjoy co
 
 **Spabreaks.com** (June 2012 to May 2017)     
 *Accounts Payable Manager/Project accountant*
+
+I started as the Accounts Payable Manager and transitioned to project work. From there, I was involved in projects ranging from implementing a new large-scale accounts system to improving daily processes.
+
 
 **Carillion PM** (March 2008 to May 2011)     
 *Accounts Payable Clerk*
