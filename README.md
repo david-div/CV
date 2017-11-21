@@ -8,7 +8,8 @@ Junior developer, looking for a chance to showcase my newfound mad skills. Havin
 ## Skills
 
 #### Fast learner
-I enjoy learning new technologies and while at Makers, I had to learn them fast. Each week was something new and having no real programming experience, I had to pickup technologies quickly, and a lot of the time learning while doing. This has now given me the confidence to know that I'm able to learn and implement new technologies when and if needed.
+ - I enjoy learning new technologies and while at Makers, I had to learn them fast. Each week was something new and having no real programming experience, I had to pickup technologies quickly, and a lot of the time learning while doing.
+  - Confident I'm able to learn and implement new technologies when and if needed.
 
 #### Problem solving
  - Logical thinker and enjoy problem solving.
@@ -45,7 +46,6 @@ I enjoy learning new technologies and while at Makers, I had to learn them fast.
  - Pair Programming, 
  - Agile, XP values
 
-
 **Croydon College Higher Education** (2005 - 2006):      
 *1st Year Business Studies (Hons)*
 
@@ -63,9 +63,6 @@ I enjoy learning new technologies and while at Makers, I had to learn them fast.
 
 **Spabreaks.com** (June 2012 to May 2017)     
 *Accounts Payable Manager/Project accountant*
-
-I started as the Accounts Payable Manager and transitioned to project work. From there, I was involved in projects ranging from implementing a new large-scale accounts system to improving daily processes.
-
 
 **Carillion PM** (March 2008 to May 2011)     
 *Accounts Payable Clerk*
