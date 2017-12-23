@@ -16,7 +16,7 @@ I enjoy learning new technologies and while at Makers, I had to learn them fast.
  - Since completing Makers, I am more likely to diagram out problems to find solutions.
  
 #### Communication and teamwork
- - Managing a team of up to 5 at Spabreaks.com, I had to know that my staff were doing, as well as giving them clear instruction.
+ - Managing a team of up to 5 at Spabreaks.com, I had to know what my staff were doing, as well as giving them clear instruction.
  - In constant communication with hotels, keeping good client/supplier relationships.
  - Focusing on the task at hand. On our final project at Makers ([Quark](https://github.com/david-div/Quark-Text-editor)), there were times the team would tangent and go off topic. I would always bring the team back on track (in a nice way) to focus on the task at hand.
  - While programming with others at Makers, I have been told that I'm great to work with; I'm a good listener, interested in others ideas and like to understand things well (their words not mine, but all true). 
