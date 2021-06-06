@@ -15,7 +15,6 @@ Full-stack software developer
 - contributed to backend services using Java and Spring boot
 - strong focus on TDD and end to end testing on all projects
 - maintained Jenkins pipelines
-- published and updated apis
 - supporting and on call for projects previously worked on
 - pairing with and mentoring junior members of the team
 - worked in agile methodologies, from extreme programming to scrum and kanban teams, using tools such as jira and confluence
